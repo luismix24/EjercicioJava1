@@ -13,4 +13,4 @@ public class Tringulo {
 
 	}//main
 
-	}// Triangulo
+	}// Triangulos

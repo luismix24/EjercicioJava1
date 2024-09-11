@@ -13,4 +13,4 @@ public class TrianguloReversa {
 
 	}//main
 
-}// for triangulo reversa
+}// for triangulo revers
